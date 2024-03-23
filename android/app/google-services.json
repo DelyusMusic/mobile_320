@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046142462000",
+    "project_id": "flutter-films320",
+    "storage_bucket": "flutter-films320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046142462000:android:942b3efb5506b3d43fe5f5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_films"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBntHJq88CEUoU0r8f5azCNPxjAZn4Ukio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
